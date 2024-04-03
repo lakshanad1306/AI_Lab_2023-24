@@ -61,9 +61,11 @@ Step 10 : Obtain the plan for given problem.<br>
    (:objects a b)
    (:init (on-table a) (on-table b)  (clear a)  (clear b) (arm-empty))
    (:goal (and (on a b))))
+~~~
 
 ### Output/Plan:
-<img width="294" alt="Screenshot 2024-03-30 155156" src="https://github.com/lakshanad1306/AI_Lab_2023-24/assets/161121355/d3b0082d-8aa7-4c83-b24d-602ed7b904c6">
+<img width="294" alt="Screenshot 2024-03-30 155156" src="https://github.com/lakshanad1306/AI_Lab_2023-24/assets/161121355/cdc29cbe-59ea-427d-b7c7-477461460c04">
+
 
 
 
