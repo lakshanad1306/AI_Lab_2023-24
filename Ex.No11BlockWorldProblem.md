@@ -16,6 +16,7 @@ Step 9 : Define a problem for block world problem.<br>
 Step 10 : Obtain the plan for given problem.<br> 
      
 ### Program:
+...
 (define (domain blocksworld)
 (:requirements :strips :equality)
 (:predicates (clear ?x)
@@ -43,6 +44,7 @@ Step 10 : Obtain the plan for given problem.<br>
   :precondition (and (on ?ob ?underob) (clear ?ob) (arm-empty))
   :effect (and (holding ?ob) (clear ?underob)
                (not (on ?ob ?underob)) (not (clear ?ob)) (not (arm-empty)))))
+...
 
 
 
