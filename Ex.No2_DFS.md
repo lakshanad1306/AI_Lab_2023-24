@@ -44,7 +44,7 @@ dfs(visited, graph, '5')
 
 
 ### Output:
-![exp 2](https://github.com/Hariniinirah/AI_Lab_2023-24/assets/139902887/91deefb1-658f-4e53-a99a-8413fc697ccd)
+![image](https://github.com/lakshanad1306/AI_Lab_2023-24/assets/161121355/8d442f46-6c80-4b06-b842-a590f602d828)
 
 
 ### Result:
