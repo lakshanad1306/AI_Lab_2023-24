@@ -52,7 +52,7 @@ bfs(visited, graph, '5')    # function calling
 
 
 ### Output:
-![exp 1](https://github.com/Hariniinirah/AI_Lab_2023-24/assets/139902887/3fd5ccad-0fcb-49af-976a-767b96e2e76b)
+![Screenshot 2024-04-04 210936](https://github.com/lakshanad1306/AI_Lab_2023-24/assets/161121355/71abcb65-412d-4bfb-8d53-fb835803259d)
 
 
 
