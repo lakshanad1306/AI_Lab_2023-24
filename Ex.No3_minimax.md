@@ -50,7 +50,8 @@ print(minimax(0, 0, True, scores, treeDepth))
 
 
 ### Output:
-![exp 3](https://github.com/Hariniinirah/AI_Lab_2023-24/assets/139902887/6a1a4ab0-570f-45fb-b5aa-b0bfafc4b77f)
+![Screenshot 2024-04-04 211238](https://github.com/lakshanad1306/AI_Lab_2023-24/assets/161121355/7a98c8eb-530d-41cb-81c3-a8aba3d7c2ba)
+
 
 
 
