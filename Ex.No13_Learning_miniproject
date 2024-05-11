@@ -72,7 +72,7 @@ return prediction
 outputs = gr.Textbox()
 app = gr.Interface(fn=diabetes, inputs=['number','number','number','number','nu
 app.launch(share=True)
-### Output:
+### Output
 
 
 ### Result:
